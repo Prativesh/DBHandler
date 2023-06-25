@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889439001859",
+    "project_id": "simplehiltapp",
+    "storage_bucket": "simplehiltapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889439001859:android:1f5633fb78b00af3ed5d36",
+        "android_client_info": {
+          "package_name": "com.example.simplehiltapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889439001859-6ldnd21nu9a18a0re8fo7pmekg2bskgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOUnb0tmg22H1DIh_TeQq0ckGF645t2MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889439001859-6ldnd21nu9a18a0re8fo7pmekg2bskgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
