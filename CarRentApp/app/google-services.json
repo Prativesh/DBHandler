@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1064316442103",
+    "firebase_url": "https://car-rent-app-9b195-default-rtdb.firebaseio.com",
+    "project_id": "car-rent-app-9b195",
+    "storage_bucket": "car-rent-app-9b195.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064316442103:android:b1af0ab05433c5dc39caf2",
+        "android_client_info": {
+          "package_name": "com.example.carrentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064316442103-on0cbrjifpk0t73t8ffq7tebmsob1s3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXPweuKBw8xFIST8I9Yqc-qYgZDJ5If50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064316442103-on0cbrjifpk0t73t8ffq7tebmsob1s3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
